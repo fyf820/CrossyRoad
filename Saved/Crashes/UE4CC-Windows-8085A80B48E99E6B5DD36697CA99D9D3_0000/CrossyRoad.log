@@ -1,0 +1,1694 @@
+﻿Log file open, 04/13/20 01:34:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoad
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.517605
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.13-08.34.25:074][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.13-08.34.25:074][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.13-08.34.25:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2020.04.13-08.34.25:074][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.13-08.34.25:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2020.04.13-08.34.25:075][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.13-08.34.25:075][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.13-08.34.25:076][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.13-08.34.25:077][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.13-08.34.25:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2020.04.13-08.34.25:077][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2020.04.13-08.34.25:083][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.13-08.34.25:084][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.13-08.34.25:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.13-08.34.25:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.13-08.34.25:085][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.13-08.34.25:086][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.13-08.34.25:087][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.13-08.34.25:088][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.13-08.34.25:089][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.13-08.34.25:089][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.13-08.34.25:112][  0]LogHAL: Display: Platform has ~ 8 GB [8450592768 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.13-08.34.25:112][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.13-08.34.25:112][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.13-08.34.25:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.13-08.34.25:113][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.13-08.34.25:114][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.13-08.34.25:115][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.13-08.34.25:116][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.13-08.34.25:132][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.13-08.34.25:132][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.13-08.34.25:132][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2020.04.13-08.34.25:133][  0]LogInit: Computer: DESKTOP-M22BGAV
+[2020.04.13-08.34.25:133][  0]LogInit: User: fyf08
+[2020.04.13-08.34.25:133][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.13-08.34.25:133][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.13-08.34.25:133][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.13-08.34.25:134][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.13-08.34.25:134][  0]LogMemory: Process Physical Memory: 103.81 MB used, 103.81 MB peak
+[2020.04.13-08.34.25:134][  0]LogMemory: Process Virtual Memory: 99.84 MB used, 99.84 MB peak
+[2020.04.13-08.34.25:134][  0]LogMemory: Physical Memory: 4360.16 MB used,  3698.95 MB free, 8059.11 MB total
+[2020.04.13-08.34.25:134][  0]LogMemory: Virtual Memory: 5117.11 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.04.13-08.34.25:142][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.13-08.34.25:659][  0]LogInit: Using OS detected language (en-US).
+[2020.04.13-08.34.25:659][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.13-08.34.25:667][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.13-08.34.26:639][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.13-08.34.26:825][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.13-08.34.26:825][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.13-08.34.33:318][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.13-08.34.33:318][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.13-08.34.33:318][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.13-08.34.33:318][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.13-08.34.33:399][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.04.13-08.34.33:399][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.13-08.34.33:410][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.13-08.34.33:410][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.13-08.34.33:410][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.13-08.34.33:424][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.13-08.34.33:424][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.13-08.34.33:424][  0]LogWindows: EnumDisplayDevices:
+[2020.04.13-08.34.33:424][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.04.13-08.34.33:425][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.04.13-08.34.33:426][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.04.13-08.34.33:426][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.04.13-08.34.33:426][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2020.04.13-08.34.33:426][  0]LogD3D11RHI:   Driver Version: 25.20.100.6576 (internal:25.20.100.6576, unified:25.20.100.6576)
+[2020.04.13-08.34.33:426][  0]LogD3D11RHI:      Driver Date: 2-7-2019
+[2020.04.13-08.34.33:426][  0]LogRHI: Texture pool is 1499 MB (70% of 2142 MB)
+[2020.04.13-08.34.33:675][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.13-08.34.33:677][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.04.13-08.34.33:677][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.13-08.34.33:708][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.04.13-08.34.34:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.13-08.34.34:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.13-08.34.34:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.13-08.34.34:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.13-08.34.34:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.13-08.34.34:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.13-08.34.34:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.13-08.34.34:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.13-08.34.34:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.13-08.34.34:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.13-08.34.34:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.13-08.34.34:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.13-08.34.35:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.13-08.34.35:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.13-08.34.35:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.13-08.34.35:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.13-08.34.35:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.13-08.34.35:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.13-08.34.35:110][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.13-08.34.35:129][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.13-08.34.35:348][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Intermediate/Shaders/WorkingDirectory/19336/).
+[2020.04.13-08.34.35:349][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fyf08/AppData/Local/Temp/UnrealShaderWorkingDir/40F681EF4D1D43C04FD83AB56C2E6E8D/'.
+[2020.04.13-08.34.35:354][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.13-08.34.35:354][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.13-08.34.35:354][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.13-08.34.43:038][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.13-08.34.43:299][  0]LogDerivedDataCache: Loaded boot cache 0.26s 78MB C:/Users/fyf08/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.13-08.34.43:299][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fyf08/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.13-08.34.43:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.13-08.34.43:299][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.13-08.34.43:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.13-08.34.43:299][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.13-08.34.43:352][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.13-08.34.43:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.13-08.34.43:353][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.13-08.34.43:355][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fyf08/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.13-08.34.43:355][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.13-08.34.43:355][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.13-08.34.43:419][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.13-08.34.43:425][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.13-08.34.43:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.13-08.34.44:195][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2020.04.13-08.34.45:085][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.13-08.34.45:790][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.13-08.34.45:790][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.13-08.34.45:790][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.13-08.34.45:790][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.13-08.34.45:791][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.13-08.34.45:917][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3907917589)
+[2020.04.13-08.34.56:931][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.110100 seconds
+[2020.04.13-08.34.56:945][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.13-08.34.56:945][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.13-08.34.56:945][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.13-08.34.59:055][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.13-08.34.59:065][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.13-08.34.59:281][  0]SourceControl: Source control is disabled
+[2020.04.13-08.34.59:281][  0]SourceControl: Source control is disabled
+[2020.04.13-08.34.59:293][  0]SourceControl: Source control is disabled
+[2020.04.13-08.34.59:300][  0]SourceControl: Source control is disabled
+[2020.04.13-08.34.59:307][  0]SourceControl: Source control is disabled
+[2020.04.13-08.34.59:679][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.13-08.34.59:713][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.13-08.34.59:713][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.13-08.35.00:015][  0]LogOcInput: OculusInput pre-init called
+[2020.04.13-08.35.00:047][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.13-08.35.00:047][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.13-08.35.00:319][  0]LogEngine: Initializing Engine...
+[2020.04.13-08.35.00:323][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.13-08.35.00:328][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.04.13-08.35.01:689][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.13-08.35.01:714][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.13-08.35.01:950][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-08.35.01:950][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-08.35.01:950][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-08.35.01:950][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-08.35.01:950][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-08.35.01:950][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-08.35.01:950][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-08.35.01:951][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-08.35.01:952][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-08.35.01:952][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-08.35.01:970][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-08.35.02:199][  0]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-08.35.02:210][  0]LogInit: FAudioDevice initialized.
+[2020.04.13-08.35.02:211][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.13-08.35.02:348][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/fyf08/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.13-08.35.02:355][  0]LogInit: Texture streaming: Enabled
+[2020.04.13-08.35.02:375][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.13-08.35.02:375][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.13-08.35.02:382][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.13-08.35.02:500][  0]LogInit: Transaction tracking system initialized
+[2020.04.13-08.35.02:539][  0]BlueprintLog: New page: Editor Load
+[2020.04.13-08.35.02:654][  0]LocalizationService: Localization service is disabled
+[2020.04.13-08.35.04:057][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Content/' took 0.02s
+[2020.04.13-08.35.04:057][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.13-08.35.04:057][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.13-08.35.05:946][  0]SourceControl: Source control is disabled
+[2020.04.13-08.35.05:946][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.13-08.35.05:959][  0]LightingResults: New page: Lighting Build
+[2020.04.13-08.35.05:964][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-08.35.05:964][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-08.35.05:965][  0]MapCheck: New page: Map Check
+[2020.04.13-08.35.05:965][  0]LightingResults: New page: Lighting Build
+[2020.04.13-08.35.06:016][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.04.13-08.35.06:404][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-08.35.06:434][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.13-08.35.06:483][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.13-08.35.06:484][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.13-08.35.06:485][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.702ms to complete.
+[2020.04.13-08.35.06:485][  0]LogFileHelpers: Loading map 'Template_Default' took 0.538
+[2020.04.13-08.35.06:924][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-08.35.06:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-08.35.06:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-08.35.07:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-08.35.07:085][  0]LogCollectionManager: Loaded 0 collections in 0.008053 seconds
+[2020.04.13-08.35.07:145][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Collections/' took 0.00s
+[2020.04.13-08.35.07:145][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Content/Developers/fyf08/Collections/' took 0.00s
+[2020.04.13-08.35.07:146][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Content/Collections/' took 0.00s
+[2020.04.13-08.35.07:146][  0]LogContentBrowser: Native class hierarchy populated in 0.0403 seconds. Added 3015 classes and 717 folders.
+[2020.04.13-08.35.07:164][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.04.13-08.35.08:639][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.04.13-08.35.08:655][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2020.04.13-08.35.09:014][  0]LogSlate: Took 0.023515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.13-08.35.09:034][  0]LogSlate: Took 0.012563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.13-08.35.09:052][  0]LogSlate: Took 0.011562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.13-08.35.09:346][  0]LogRenderer: Reallocating scene render targets to support 624x344 Format 10 NumSamples 1 (Frame:1).
+[2020.04.13-08.35.09:765][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.13-08.35.09:766][  0]LogLoad: (Engine Initialization) Total time: 55.53 seconds
+[2020.04.13-08.35.09:766][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.13-08.35.09:855][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.13-08.35.10:596][  7]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-08.35.12:745][ 23]LogAssetRegistry: Asset discovery search completed in 28.5509 seconds
+[2020.04.13-08.35.12:764][ 23]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2020.04.13-08.35.24:595][190]LogSlate: Took 0.008862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.13-08.35.24:680][190]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\car.obj)
+[2020.04.13-08.35.24:765][190]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\car.obj
+[2020.04.13-08.35.24:828][190]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.28:666][190]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.13-08.35.29:103][190]LogLinker: Failed to load '/Game/Model/car': Can't find file.
+[2020.04.13-08.35.29:111][190]LogTexture: Display: Building textures: car1 (BGRA8, 256X1)
+[2020.04.13-08.35.29:139][190]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2020.04.13-08.35.29:267][190]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.04.13-08.35.29:267][190]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.04.13-08.35.29:267][190]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.13-08.35.29:269][190]LogStaticMesh: Building static mesh car...
+[2020.04.13-08.35.29:281][190]LogStaticMesh: Built static mesh [0.01s] /Game/Model/car.car
+[2020.04.13-08.35.29:284][190]LogStaticMesh: Warning: car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.29:284][190]LogStaticMesh: Warning: car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.29:299][190]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.29:299][190]FBXImport: Warning: car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.29:299][190]FBXImport: Warning: car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.30:382][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\car.png)
+[2020.04.13-08.35.30:387][190]LogTexture: Display: Building textures: car_0 (BGRA8, 256X1)
+[2020.04.13-08.35.30:425][190]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\car.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.30:565][190]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.13-08.35.32:359][212]LogSlate: Window 'Message Log' being destroyed
+[2020.04.13-08.35.32:496][212]LogSlate: Window 'Message Log' being destroyed
+[2020.04.13-08.35.38:885][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\water.obj)
+[2020.04.13-08.35.38:902][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\water.obj
+[2020.04.13-08.35.38:939][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.45:434][395]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.13-08.35.45:542][395]LogStaticMesh: Building static mesh water...
+[2020.04.13-08.35.45:615][395]LogStaticMesh: Built static mesh [0.08s] /Game/Model/water.water
+[2020.04.13-08.35.45:636][395]LogStaticMesh: Warning: water has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.45:636][395]LogStaticMesh: Warning: water has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.45:668][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.45:669][395]FBXImport: Warning: water has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.45:669][395]FBXImport: Warning: water has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.45:927][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\water.png)
+[2020.04.13-08.35.45:935][395]LogTexture: Display: Building textures: water_0 (BGRA8, 256X1)
+[2020.04.13-08.35.45:942][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\wood.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.45:953][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\wood.obj)
+[2020.04.13-08.35.46:073][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\wood.obj
+[2020.04.13-08.35.46:119][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.46:194][395]LogStaticMesh: Building static mesh wood...
+[2020.04.13-08.35.46:200][395]LogStaticMesh: Built static mesh [0.01s] /Game/Model/wood.wood
+[2020.04.13-08.35.46:206][395]LogStaticMesh: Warning: wood has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.46:207][395]LogStaticMesh: Warning: wood has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.46:251][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.46:252][395]FBXImport: Warning: wood has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.46:252][395]FBXImport: Warning: wood has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.46:273][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\wood.png)
+[2020.04.13-08.35.46:279][395]LogTexture: Display: Building textures: wood_0 (BGRA8, 256X1)
+[2020.04.13-08.35.46:304][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\coin.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.46:327][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\coin.obj)
+[2020.04.13-08.35.46:607][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\coin.obj
+[2020.04.13-08.35.46:622][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.46:682][395]LogStaticMesh: Building static mesh coin...
+[2020.04.13-08.35.46:685][395]LogStaticMesh: Built static mesh [0.00s] /Game/Model/coin.coin
+[2020.04.13-08.35.46:688][395]LogStaticMesh: Warning: coin has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.46:688][395]LogStaticMesh: Warning: coin has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.46:704][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.46:705][395]FBXImport: Warning: coin has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.46:705][395]FBXImport: Warning: coin has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.46:713][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\coin.png)
+[2020.04.13-08.35.46:716][395]LogTexture: Display: Building textures: coin_0 (BGRA8, 256X1)
+[2020.04.13-08.35.46:725][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.46:739][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway.obj)
+[2020.04.13-08.35.46:988][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway.obj
+[2020.04.13-08.35.47:023][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.47:043][395]LogStaticMesh: Building static mesh highway...
+[2020.04.13-08.35.47:044][395]LogStaticMesh: Built static mesh [0.00s] /Game/Model/highway.highway
+[2020.04.13-08.35.47:048][395]LogStaticMesh: Warning: highway has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.47:049][395]LogStaticMesh: Warning: highway has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.47:157][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.47:158][395]FBXImport: Warning: highway has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.47:159][395]FBXImport: Warning: highway has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.47:175][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway.png)
+[2020.04.13-08.35.47:178][395]LogTexture: Display: Building textures: highway_0 (BGRA8, 256X1)
+[2020.04.13-08.35.47:189][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway2.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.47:202][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway2.obj)
+[2020.04.13-08.35.47:463][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway2.obj
+[2020.04.13-08.35.47:494][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.47:610][395]LogStaticMesh: Building static mesh highway2...
+[2020.04.13-08.35.47:620][395]LogStaticMesh: Built static mesh [0.02s] /Game/Model/highway2.highway2
+[2020.04.13-08.35.47:624][395]LogStaticMesh: Warning: highway2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.47:626][395]LogStaticMesh: Warning: highway2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.47:682][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.47:682][395]FBXImport: Warning: highway2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.47:683][395]FBXImport: Warning: highway2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.47:702][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\highway2.png)
+[2020.04.13-08.35.47:707][395]LogTexture: Display: Building textures: highway2_0 (BGRA8, 256X1)
+[2020.04.13-08.35.47:719][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\leaf.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.47:871][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\leaf.obj)
+[2020.04.13-08.35.48:173][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\leaf.obj
+[2020.04.13-08.35.48:222][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.48:270][395]LogStaticMesh: Building static mesh leaf...
+[2020.04.13-08.35.48:287][395]LogStaticMesh: Built static mesh [0.02s] /Game/Model/leaf.leaf
+[2020.04.13-08.35.48:292][395]LogStaticMesh: Warning: leaf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.48:292][395]LogStaticMesh: Warning: leaf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.48:322][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.48:322][395]FBXImport: Warning: leaf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.48:322][395]FBXImport: Warning: leaf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.48:339][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\leaf.png)
+[2020.04.13-08.35.48:343][395]LogTexture: Display: Building textures: leaf_0 (BGRA8, 256X1)
+[2020.04.13-08.35.48:370][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\road.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.48:410][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\road.obj)
+[2020.04.13-08.35.48:618][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\road.obj
+[2020.04.13-08.35.48:743][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.48:876][395]LogStaticMesh: Building static mesh road...
+[2020.04.13-08.35.48:951][395]LogStaticMesh: Built static mesh [0.08s] /Game/Model/road.road
+[2020.04.13-08.35.48:973][395]LogStaticMesh: Warning: road has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.48:973][395]LogStaticMesh: Warning: road has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.49:083][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.49:083][395]FBXImport: Warning: road has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.49:083][395]FBXImport: Warning: road has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.49:117][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\road.png)
+[2020.04.13-08.35.49:119][395]LogTexture: Display: Building textures: road_0 (BGRA8, 256X1)
+[2020.04.13-08.35.49:137][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\signal.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.49:152][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\signal.obj)
+[2020.04.13-08.35.49:279][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\signal.obj
+[2020.04.13-08.35.49:294][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.49:350][395]LogStaticMesh: Building static mesh signal...
+[2020.04.13-08.35.49:352][395]LogStaticMesh: Built static mesh [0.00s] /Game/Model/signal.signal
+[2020.04.13-08.35.49:358][395]LogStaticMesh: Warning: signal has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.49:359][395]LogStaticMesh: Warning: signal has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.49:385][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.49:385][395]FBXImport: Warning: signal has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.49:385][395]FBXImport: Warning: signal has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.49:393][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\signal.png)
+[2020.04.13-08.35.49:396][395]LogTexture: Display: Building textures: signal_0 (BGRA8, 256X1)
+[2020.04.13-08.35.49:427][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train road.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.49:450][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train road.obj)
+[2020.04.13-08.35.49:915][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train road.obj
+[2020.04.13-08.35.49:944][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.49:961][395]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2020.04.13-08.35.49:993][395]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.04.13-08.35.49:993][395]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.04.13-08.35.49:993][395]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.04.13-08.35.49:994][395]LogStaticMesh: Building static mesh train_road...
+[2020.04.13-08.35.50:013][395]LogStaticMesh: Built static mesh [0.02s] /Game/Model/train_road.train_road
+[2020.04.13-08.35.50:017][395]LogStaticMesh: Warning: train_road has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.50:018][395]LogStaticMesh: Warning: train_road has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.50:086][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.50:086][395]FBXImport: Warning: train_road has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.50:087][395]FBXImport: Warning: train_road has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.50:121][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train road.png)
+[2020.04.13-08.35.50:125][395]LogTexture: Display: Building textures: train_road_0 (BGRA8, 256X1)
+[2020.04.13-08.35.50:186][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.50:242][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train.obj)
+[2020.04.13-08.35.50:609][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train.obj
+[2020.04.13-08.35.50:658][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.50:676][395]LogStaticMesh: Building static mesh train...
+[2020.04.13-08.35.50:716][395]LogStaticMesh: Built static mesh [0.04s] /Game/Model/train.train
+[2020.04.13-08.35.50:751][395]LogStaticMesh: Warning: train has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.50:751][395]LogStaticMesh: Warning: train has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.50:775][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.50:775][395]FBXImport: Warning: train has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.50:775][395]FBXImport: Warning: train has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.50:805][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\train.png)
+[2020.04.13-08.35.50:813][395]LogTexture: Display: Building textures: train_0 (BGRA8, 256X1)
+[2020.04.13-08.35.50:856][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\tree.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.50:869][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\tree.obj)
+[2020.04.13-08.35.51:064][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\tree.obj
+[2020.04.13-08.35.51:106][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.51:119][395]LogStaticMesh: Building static mesh tree...
+[2020.04.13-08.35.51:120][395]LogStaticMesh: Built static mesh [0.00s] /Game/Model/tree.tree
+[2020.04.13-08.35.51:127][395]LogStaticMesh: Warning: tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.51:127][395]LogStaticMesh: Warning: tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.51:262][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.51:262][395]FBXImport: Warning: tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.51:262][395]FBXImport: Warning: tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.51:270][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\tree.png)
+[2020.04.13-08.35.51:273][395]LogTexture: Display: Building textures: tree_0 (BGRA8, 256X1)
+[2020.04.13-08.35.51:290][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\truck.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.51:383][395]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\truck.obj)
+[2020.04.13-08.35.51:635][395]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\truck.obj
+[2020.04.13-08.35.51:683][395]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.35.51:790][395]LogStaticMesh: Building static mesh truck...
+[2020.04.13-08.35.51:798][395]LogStaticMesh: Built static mesh [0.01s] /Game/Model/truck.truck
+[2020.04.13-08.35.51:801][395]LogStaticMesh: Warning: truck has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.35.51:801][395]LogStaticMesh: Warning: truck has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.35.51:823][395]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.35.51:823][395]FBXImport: Warning: truck has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.35.51:823][395]FBXImport: Warning: truck has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.35.51:865][395]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\truck.png)
+[2020.04.13-08.35.51:868][395]LogTexture: Display: Building textures: truck_0 (BGRA8, 256X1)
+[2020.04.13-08.35.51:907][395]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\water.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.56:820][490]LogSlate: Window 'Message Log' being destroyed
+[2020.04.13-08.35.56:829][490]LogSlate: Window 'Message Log' being destroyed
+[2020.04.13-08.35.58:880][574]LogAssetTools: Warning: Failed to import 'C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\chicken.mtl'. Unknown extension 'mtl'.
+[2020.04.13-08.35.58:894][574]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\chicken.obj)
+[2020.04.13-08.35.58:975][574]LogFbx: Loading FBX Scene from C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\chicken.obj
+[2020.04.13-08.35.58:996][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.13-08.36.03:248][574]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.13-08.36.03:343][574]LogStaticMesh: Building static mesh chicken...
+[2020.04.13-08.36.03:346][574]LogStaticMesh: Built static mesh [0.00s] /Game/Model/chicken.chicken
+[2020.04.13-08.36.03:347][574]LogStaticMesh: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.13-08.36.03:347][574]LogStaticMesh: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.13-08.36.03:361][574]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.13-08.36.03:361][574]FBXImport: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.13-08.36.03:361][574]FBXImport: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.13-08.36.03:615][574]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\fyf08\Desktop\HOMEWORK\cpsc386\MagicaVoxel-0.99.4.2-alpha-win64\export\chicken.png)
+[2020.04.13-08.36.03:617][574]LogTexture: Display: Building textures: chicken_0 (BGRA8, 256X1)
+[2020.04.13-08.36.07:381][701]LogSlate: Window 'Message Log' being destroyed
+[2020.04.13-08.36.07:391][701]LogSlate: Window 'Message Log' being destroyed
+[2020.04.13-08.36.17:191][ 95]Cmd: TRANSACTION UNDO
+[2020.04.13-08.36.17:191][ 95]LogEditorTransaction: Undo Edit Z
+[2020.04.13-08.37.02:874][846]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.13-08.37.05:375][930]LogSlate: Took 0.025384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.13-08.37.11:391][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Chicken.Chicken
+[2020.04.13-08.37.12:171][189]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 121 classes and 0 folders.
+[2020.04.13-08.37.14:341][190]LogRenderer: Reallocating scene render targets to support 800x344 Format 10 NumSamples 1 (Frame:1).
+[2020.04.13-08.37.40:926][321]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.13-08.37.42:200][326]LogSlate: Took 0.011780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.13-08.39.27:194][969]LogEditorTransaction: Undo Add Component
+[2020.04.13-08.39.28:037][983]LogEditorTransaction: Undo Set Rotation
+[2020.04.13-08.39.32:492][111]LogEditorTransaction: Redo Set Rotation
+[2020.04.13-08.43.32:867][770]BlueprintLog: New page: Compile Chicken
+[2020.04.13-08.43.33:423][770]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.04.13-08.43.34:297][799]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-08.43.34:306][799]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-08.43.34:351][799]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-08.43.34:351][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-08.45.10:075][435]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2020.04.13-08.45.10:081][435]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.076
+[2020.04.13-08.45.10:081][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/car] ([2] browsable assets)...
+[2020.04.13-08.45.10:341][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/car.car]
+[2020.04.13-08.45.10:349][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/car.car_0]
+[2020.04.13-08.45.10:350][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/car]
+[2020.04.13-08.45.10:350][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/car" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/car_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.10:433][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/car_Auto19551466041632B4FC2277F9C2BA4D235.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/car_Auto1.uasset'
+[2020.04.13-08.45.10:438][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/palette] ([1] browsable assets)...
+[2020.04.13-08.45.10:514][435]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Model/palette.palette]
+[2020.04.13-08.45.10:514][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/palette]
+[2020.04.13-08.45.10:516][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/palette" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/palette_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.10:560][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/palette_Auto12A2EEE9E454C91908C8F89800D38EBBB.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/palette_Auto1.uasset'
+[2020.04.13-08.45.10:562][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/car1] ([1] browsable assets)...
+[2020.04.13-08.45.10:564][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/car1.car1]
+[2020.04.13-08.45.10:564][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/car1]
+[2020.04.13-08.45.10:564][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/car1" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/car1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.10:576][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/car1_Auto1A4A0E5524CC02CEF00FE5DAE6DACF13E.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/car1_Auto1.uasset'
+[2020.04.13-08.45.10:584][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/water] ([2] browsable assets)...
+[2020.04.13-08.45.10:628][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/water.water]
+[2020.04.13-08.45.10:630][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/water.water_0]
+[2020.04.13-08.45.10:630][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/water]
+[2020.04.13-08.45.10:630][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/water" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/water_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.10:681][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/water_Auto17491DF4D4E0B78B4AFA0F0B7ACDAB44D.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/water_Auto1.uasset'
+[2020.04.13-08.45.10:683][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/wood] ([2] browsable assets)...
+[2020.04.13-08.45.10:735][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/wood.wood]
+[2020.04.13-08.45.10:737][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/wood.wood_0]
+[2020.04.13-08.45.10:737][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/wood]
+[2020.04.13-08.45.10:737][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/wood" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/wood_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.10:780][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/wood_Auto19EA1876940B4DA5A2378AC97A651DC29.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/wood_Auto1.uasset'
+[2020.04.13-08.45.10:783][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/coin] ([2] browsable assets)...
+[2020.04.13-08.45.10:833][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/coin.coin]
+[2020.04.13-08.45.10:835][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/coin.coin_0]
+[2020.04.13-08.45.10:835][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/coin]
+[2020.04.13-08.45.10:835][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/coin" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/coin_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.10:873][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/coin_Auto10C5ACAEF4AE7E0A91707779AEA74CD42.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/coin_Auto1.uasset'
+[2020.04.13-08.45.10:875][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/highway] ([2] browsable assets)...
+[2020.04.13-08.45.10:916][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/highway.highway]
+[2020.04.13-08.45.10:918][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/highway.highway_0]
+[2020.04.13-08.45.10:918][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/highway]
+[2020.04.13-08.45.10:918][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/highway" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/highway_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.10:951][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/highway_Auto1F1021FD34974A2697A0F6F9BBE60405A.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/highway_Auto1.uasset'
+[2020.04.13-08.45.10:953][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/highway2] ([2] browsable assets)...
+[2020.04.13-08.45.10:996][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/highway2.highway2]
+[2020.04.13-08.45.11:009][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/highway2.highway2_0]
+[2020.04.13-08.45.11:009][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/highway2]
+[2020.04.13-08.45.11:009][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/highway2" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/highway2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.11:054][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/highway2_Auto1664FF4CD48881255BC1B3AA7A5154DCD.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/highway2_Auto1.uasset'
+[2020.04.13-08.45.11:057][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/leaf] ([2] browsable assets)...
+[2020.04.13-08.45.11:107][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/leaf.leaf]
+[2020.04.13-08.45.11:108][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/leaf.leaf_0]
+[2020.04.13-08.45.11:108][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/leaf]
+[2020.04.13-08.45.11:109][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/leaf" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/leaf_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.11:148][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/leaf_Auto11190510D40F06E63E78414B7CFD8A31C.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/leaf_Auto1.uasset'
+[2020.04.13-08.45.11:150][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/road] ([2] browsable assets)...
+[2020.04.13-08.45.11:192][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/road.road]
+[2020.04.13-08.45.11:193][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/road.road_0]
+[2020.04.13-08.45.11:194][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/road]
+[2020.04.13-08.45.11:194][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/road" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/road_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.11:254][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/road_Auto12F1D02AC4CCAAE2277F46F9674040049.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/road_Auto1.uasset'
+[2020.04.13-08.45.11:256][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/signal] ([2] browsable assets)...
+[2020.04.13-08.45.11:317][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/signal.signal]
+[2020.04.13-08.45.11:319][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/signal.signal_0]
+[2020.04.13-08.45.11:319][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/signal]
+[2020.04.13-08.45.11:319][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/signal" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/signal_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.11:400][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/signal_Auto1840DF40E45AE951E623183B4BE04D08B.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/signal_Auto1.uasset'
+[2020.04.13-08.45.11:403][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/train_road] ([2] browsable assets)...
+[2020.04.13-08.45.11:466][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/train_road.train_road]
+[2020.04.13-08.45.11:468][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/train_road.train_road_0]
+[2020.04.13-08.45.11:468][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/train_road]
+[2020.04.13-08.45.11:516][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/train_road_Auto1777B77744E9E3A59FAB666B20876E786.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/train_road_Auto1.uasset'
+[2020.04.13-08.45.11:519][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/defaultMat] ([1] browsable assets)...
+[2020.04.13-08.45.11:574][435]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Model/defaultMat.defaultMat]
+[2020.04.13-08.45.11:574][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/defaultMat]
+[2020.04.13-08.45.11:613][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/defaultMat_Auto19F5CE09049B662FD03720C80B5C5209F.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/defaultMat_Auto1.uasset'
+[2020.04.13-08.45.11:615][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/train] ([2] browsable assets)...
+[2020.04.13-08.45.11:667][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/train.train]
+[2020.04.13-08.45.11:669][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/train.train_0]
+[2020.04.13-08.45.11:669][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/train]
+[2020.04.13-08.45.11:669][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/train" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/train_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.11:717][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/train_Auto1BBE320C549292CCBBC48C296557802E8.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/train_Auto1.uasset'
+[2020.04.13-08.45.11:720][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/tree] ([2] browsable assets)...
+[2020.04.13-08.45.11:764][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/tree.tree]
+[2020.04.13-08.45.11:766][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/tree.tree_0]
+[2020.04.13-08.45.11:766][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/tree]
+[2020.04.13-08.45.11:766][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/tree" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/tree_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.11:799][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/tree_Auto1A8C2DA2F477DE47237509A9BD13C2B85.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/tree_Auto1.uasset'
+[2020.04.13-08.45.11:803][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/truck] ([2] browsable assets)...
+[2020.04.13-08.45.11:857][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/truck.truck]
+[2020.04.13-08.45.11:859][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/truck.truck_0]
+[2020.04.13-08.45.11:859][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/truck]
+[2020.04.13-08.45.11:859][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/truck" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/truck_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.11:926][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/truck_Auto161C0020E4FAC6787286E92B5D8E17F9D.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/truck_Auto1.uasset'
+[2020.04.13-08.45.11:931][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Model/chicken] ([2] browsable assets)...
+[2020.04.13-08.45.12:005][435]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/chicken.chicken]
+[2020.04.13-08.45.12:013][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/chicken.chicken_0]
+[2020.04.13-08.45.12:013][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/chicken]
+[2020.04.13-08.45.12:013][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/chicken" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/chicken_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.13-08.45.12:079][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/chicken_Auto144049272416699681F3A7B842ED5017C.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Model/chicken_Auto1.uasset'
+[2020.04.13-08.45.12:090][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Chicken] ([1] browsable assets)...
+[2020.04.13-08.45.12:161][435]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Chicken.Chicken]
+[2020.04.13-08.45.12:161][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Chicken]
+[2020.04.13-08.45.12:255][435]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Chicken_Auto14DD8AAFC400287998243FB8E4BBDC9F0.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Blueprint/Chicken_Auto1.uasset'
+[2020.04.13-08.45.12:258][435]LogFileHelpers: Auto-saving content packages took 2.177
+[2020.04.13-08.54.19:816][547]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.13-08.54.19:816][547]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.13-09.10.43:765][287]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.13-09.11.26:455][668]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.04.13-09.11.26:470][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.074
+[2020.04.13-09.11.26:470][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Gamemodebase] ([1] browsable assets)...
+[2020.04.13-09.11.26:470][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Gamemodebase]
+[2020.04.13-09.11.26:504][668]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Gamemodebase_Auto2858C36BB49DA335FB544ABA6E8D7340A.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Blueprint/Gamemodebase_Auto2.uasset'
+[2020.04.13-09.11.26:505][668]LogFileHelpers: Auto-saving content packages took 0.036
+[2020.04.13-09.26.32:919][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Gamemodebase.Gamemodebase
+[2020.04.13-09.26.53:097][389]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.13-09.27.04:978][840]BlueprintLog: New page: Compile Gamemodebase
+[2020.04.13-09.27.05:402][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.04.13-09.27.06:934][881]LogSlate: Window 'Gamemodebase' being destroyed
+[2020.04.13-09.27.06:940][881]LogSlate: Window 'Gamemodebase' being destroyed
+[2020.04.13-09.27.06:969][881]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.27.06:969][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.27.42:619][699]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.13-09.28.19:388][509]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.04.13-09.28.19:427][509]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Untitled_1_Auto34EF55AF849C91BB7E5A966944B3237CF.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2020.04.13-09.28.19:430][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.097
+[2020.04.13-09.28.19:430][509]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.097
+[2020.04.13-09.28.19:430][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Gamemodebase] ([1] browsable assets)...
+[2020.04.13-09.28.19:430][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Gamemodebase]
+[2020.04.13-09.28.19:443][509]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Gamemodebase_Auto35F71D9A645643BC928F836ABB9261CE2.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Game/Blueprint/Gamemodebase_Auto3.uasset'
+[2020.04.13-09.28.19:444][509]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.04.13-09.29.35:083][299]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.29.35:549][332]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.29.55:252][161]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.29.59:584][540]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.29.59:607][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.29.59:621][540]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:29:59 PM)
+[2020.04.13-09.29.59:630][540]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.13-09.29.59:637][540]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.13-09.29.59:638][540]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.29.59:648][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009500s)
+[2020.04.13-09.29.59:653][540]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.29.59:659][540]LogPlayLevel: PIE: World Init took: (0.010581s)
+[2020.04.13-09.29.59:659][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.021048s)
+[2020.04.13-09.29.59:706][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.04.13-09.29.59:716][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.29.59:716][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.29.59:716][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.29.59:716][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.29.59:716][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.29.59:716][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.29.59:716][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.29.59:717][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.29.59:718][540]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.29.59:718][540]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.29.59:726][540]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.29.59:753][540]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.29.59:757][540]LogInit: FAudioDevice initialized.
+[2020.04.13-09.29.59:782][540]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.29.59:799][540]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.29.59
+[2020.04.13-09.29.59:810][540]LogWorld: Bringing up level for play took: 0.011954
+[2020.04.13-09.29.59:814][540]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.13-09.29.59:859][540]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0054 seconds. Added 20 classes and 0 folders.
+[2020.04.13-09.29.59:869][540]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.043
+[2020.04.13-09.30.05:778][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.30.05:778][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.30.05:781][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.30.05:782][824]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.30.05:784][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.30.05:785][824]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.30.05:785][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.30.05:827][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.30.05:832][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.30.05:875][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.30.05:882][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.30.05:972][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.04.13-09.30.05:992][825]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.13-09.38.21:136][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.04.13-09.38.21:165][134]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Untitled_1_Auto49CF6E9B646F34CE675E2BB99B6133C27.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2020.04.13-09.38.21:175][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.188
+[2020.04.13-09.38.21:175][134]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.188
+[2020.04.13-09.41.04:141][567]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.13-09.41.04:168][567]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.13-09.41.14:475][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Chicken.Chicken
+[2020.04.13-09.41.15:276][300]LogSlate: Took 0.011845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.13-09.41.41:051][708]LogSlate: Took 0.007839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.13-09.41.47:227][ 51]BlueprintLog: New page: Compile Chicken
+[2020.04.13-09.41.47:628][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.04.13-09.43.20:227][641]Cmd: TRANSACTION UNDO
+[2020.04.13-09.43.20:227][641]LogEditorTransaction: Undo Add Node
+[2020.04.13-09.43.20:573][647]LogEditorTransaction: Undo Move Node
+[2020.04.13-09.43.22:126][730]LogEditorTransaction: Redo Move Node
+[2020.04.13-09.47.47:355][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Chicken" FILE="../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Content/Blueprint/Chicken.uasset" SILENT=true
+[2020.04.13-09.47.47:412][648]LogSavePackage: Moving '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Saved/Chicken7392CD09484CB09F488E1AA1AB48EBE6.tmp' to '../../../../../../Users/fyf08/Desktop/HOMEWORK/cpsc386/CrossyRoad/Content/Blueprint/Chicken.uasset'
+[2020.04.13-09.47.47:451][648]AssetCheck: New page: Asset Save: Chicken
+[2020.04.13-09.47.47:451][648]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Chicken.Chicken
+[2020.04.13-09.47.49:189][743]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-09.47.49:201][743]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-09.47.49:244][743]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.47.49:244][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.48.23:054][113]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.48.23:074][113]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-09.48.23:075][113]LogPlayLevel: [PlayLevel] Compiling Chicken before play...
+[2020.04.13-09.48.23:310][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.04.13-09.48.23:313][113]LogPlayLevel: PlayLevel: Blueprint regeneration took 239 ms (1 blueprints)
+[2020.04.13-09.48.23:313][113]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:48:23 PM)
+[2020.04.13-09.48.23:313][113]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.48.23:317][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003279s)
+[2020.04.13-09.48.23:318][113]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.48.23:318][113]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2020.04.13-09.48.23:318][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005146s)
+[2020.04.13-09.48.23:351][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.13-09.48.23:352][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.48.23:352][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.48.23:352][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.48.23:352][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.48.23:352][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.48.23:352][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.48.23:352][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.48.23:352][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.48.23:353][113]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.48.23:353][113]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.48.23:362][113]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.48.23:387][113]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.48.23:389][113]LogInit: FAudioDevice initialized.
+[2020.04.13-09.48.23:397][113]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.48.23:398][113]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.48.23
+[2020.04.13-09.48.23:398][113]LogWorld: Bringing up level for play took: 0.000926
+[2020.04.13-09.48.23:398][113]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.13-09.48.23:401][113]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.423
+[2020.04.13-09.48.46:997][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.48.46:997][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.48.46:998][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.48.46:998][433]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.48.46:999][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.48.46:999][433]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.48.47:000][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.48.47:041][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.48.47:048][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.48.47:076][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.48.47:080][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.48.47:087][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.13-09.48.47:099][434]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.13-09.48.53:577][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.13-09.48.54:313][814]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.48.55:860][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.13-09.48.56:730][914]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.49.04:802][182]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.49.07:997][317]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.13-09.49.09:611][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.13-09.49.10:928][450]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.49.18:278][690]Cmd: TRANSACTION UNDO
+[2020.04.13-09.49.18:278][690]LogEditorTransaction: Undo Move Actors
+[2020.04.13-09.49.19:449][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.49.21:988][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Chicken.Chicken
+[2020.04.13-09.49.29:707][ 67]BlueprintLog: New page: Compile Chicken
+[2020.04.13-09.49.30:004][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2020.04.13-09.49.30:593][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.04.13-09.49.32:955][ 84]LogSlate: Window 'Save Content' being destroyed
+[2020.04.13-09.49.33:829][117]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-09.49.33:862][117]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-09.49.33:888][117]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.49.33:888][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.49.37:555][265]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.49.37:575][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.49.37:576][265]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:49:37 PM)
+[2020.04.13-09.49.37:576][265]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.49.37:578][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002637s)
+[2020.04.13-09.49.37:579][265]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.49.37:580][265]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2020.04.13-09.49.37:580][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004121s)
+[2020.04.13-09.49.37:615][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.49.37:618][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.49.37:618][265]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.49.37:618][265]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.49.37:625][265]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.49.37:644][265]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.49.37:646][265]LogInit: FAudioDevice initialized.
+[2020.04.13-09.49.37:659][265]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.49.37:661][265]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.49.37
+[2020.04.13-09.49.37:662][265]LogWorld: Bringing up level for play took: 0.001448
+[2020.04.13-09.49.37:662][265]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.04.13-09.49.37:666][265]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.157
+[2020.04.13-09.49.51:992][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.49.51:992][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.49.51:992][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.49.51:993][958]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.49.51:993][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.49.51:994][958]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.49.51:994][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.49.52:044][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.49.52:049][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.49.52:080][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.49.52:084][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.49.52:088][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.13-09.49.52:106][959]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.13-09.49.54:637][ 69]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.49.56:945][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.49.57:899][176]Cmd: TRANSACTION UNDO
+[2020.04.13-09.49.57:899][176]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.49.58:566][190]Cmd: TRANSACTION UNDO
+[2020.04.13-09.49.58:566][190]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.49.59:216][217]Cmd: TRANSACTION UNDO
+[2020.04.13-09.49.59:216][217]LogEditorTransaction: Undo Edit Speed
+[2020.04.13-09.49.59:897][242]Cmd: TRANSACTION UNDO
+[2020.04.13-09.49.59:898][242]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.50.02:188][309]Cmd: TRANSACTION UNDO
+[2020.04.13-09.50.02:188][309]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.50.02:733][330]Cmd: TRANSACTION UNDO
+[2020.04.13-09.50.02:733][330]LogEditorTransaction: Undo Move Actors
+[2020.04.13-09.50.03:200][349]Cmd: TRANSACTION UNDO
+[2020.04.13-09.50.03:200][349]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.50.04:081][385]Cmd: TRANSACTION UNDO
+[2020.04.13-09.50.04:081][385]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.50.06:216][452]Cmd: TRANSACTION UNDO
+[2020.04.13-09.50.06:216][452]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.50.08:669][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.13-09.50.21:156][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.50.21:186][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.50.21:186][ 71]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:50:21 PM)
+[2020.04.13-09.50.21:186][ 71]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.50.21:189][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002845s)
+[2020.04.13-09.50.21:190][ 71]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.50.21:190][ 71]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2020.04.13-09.50.21:190][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004790s)
+[2020.04.13-09.50.21:232][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.50.21:236][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.50.21:236][ 71]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.50.21:236][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.50.21:243][ 71]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.50.21:266][ 71]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.50.21:268][ 71]LogInit: FAudioDevice initialized.
+[2020.04.13-09.50.21:274][ 71]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.50.21:275][ 71]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.50.21
+[2020.04.13-09.50.21:276][ 71]LogWorld: Bringing up level for play took: 0.000825
+[2020.04.13-09.50.21:276][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.04.13-09.50.21:278][ 71]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.545
+[2020.04.13-09.50.28:475][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.50.28:476][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.50.28:477][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.50.28:477][408]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.50.28:478][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.50.28:478][408]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.50.28:479][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.50.28:528][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.50.28:534][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.50.28:568][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.50.28:574][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.50.28:578][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.04.13-09.50.28:599][409]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.13-09.50.35:711][667]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.50.38:557][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.13-09.50.40:648][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.13-09.50.41:725][873]Cmd: DELETE
+[2020.04.13-09.50.41:725][873]Cmd: ACTOR DELETE
+[2020.04.13-09.50.41:761][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.13-09.50.41:801][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.04.13-09.50.41:803][873]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.04.13-09.50.43:453][948]Cmd: TRANSACTION UNDO
+[2020.04.13-09.50.43:453][948]LogEditorTransaction: Undo Delete Actors
+[2020.04.13-09.50.45:580][ 20]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.50.46:878][ 59]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.50.49:229][154]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.50.57:187][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Chicken.Chicken
+[2020.04.13-09.51.13:852][801]BlueprintLog: New page: Compile Chicken
+[2020.04.13-09.51.14:260][801]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2020.04.13-09.51.15:494][832]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-09.51.15:548][832]LogSlate: Window 'Chicken' being destroyed
+[2020.04.13-09.51.15:549][832]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.51.15:549][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.51.16:834][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.13-09.51.19:277][967]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.51.19:306][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.51.19:306][967]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:51:19 PM)
+[2020.04.13-09.51.19:306][967]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.51.19:309][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002869s)
+[2020.04.13-09.51.19:310][967]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.51.19:310][967]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2020.04.13-09.51.19:310][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004233s)
+[2020.04.13-09.51.19:349][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.04.13-09.51.19:351][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.51.19:351][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.51.19:351][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.51.19:351][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.51.19:351][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.51.19:351][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.51.19:351][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.51.19:351][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.51.19:352][967]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.51.19:352][967]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.51.19:358][967]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.51.19:380][967]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.51.19:382][967]LogInit: FAudioDevice initialized.
+[2020.04.13-09.51.19:394][967]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.51.19:395][967]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.51.19
+[2020.04.13-09.51.19:396][967]LogWorld: Bringing up level for play took: 0.000821
+[2020.04.13-09.51.19:396][967]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.13-09.51.19:398][967]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.426
+[2020.04.13-09.51.26:449][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.26:449][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.26:449][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.51.26:450][298]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.51.26:450][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.26:451][298]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.51.26:452][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.51.26:502][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.51.26:508][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.51.26:540][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.26:544][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.51.26:549][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.04.13-09.51.26:567][299]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.13-09.51.29:018][403]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.51.30:012][432]Cmd: DELETE
+[2020.04.13-09.51.30:012][432]Cmd: ACTOR DELETE
+[2020.04.13-09.51.30:016][432]LogEditorActor: Deleted Actor: Chicken_C
+[2020.04.13-09.51.30:092][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.13-09.51.30:092][432]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2020.04.13-09.51.32:295][527]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.51.32:320][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.51.32:320][527]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:51:32 PM)
+[2020.04.13-09.51.32:320][527]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.51.32:323][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002639s)
+[2020.04.13-09.51.32:324][527]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.51.32:324][527]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2020.04.13-09.51.32:324][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004018s)
+[2020.04.13-09.51.32:362][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.51.32:363][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.51.32:363][527]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.51.32:363][527]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.51.32:369][527]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.51.32:390][527]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.51.32:392][527]LogInit: FAudioDevice initialized.
+[2020.04.13-09.51.32:410][527]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.51.32:412][527]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.51.32
+[2020.04.13-09.51.32:413][527]LogWorld: Bringing up level for play took: 0.001321
+[2020.04.13-09.51.32:413][527]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.13-09.51.32:419][527]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.596
+[2020.04.13-09.51.46:027][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.46:028][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.46:029][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.51.46:029][175]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.51.46:030][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.46:030][175]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.51.46:030][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.51.46:081][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.51.46:087][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.51.46:120][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.51.46:124][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.51.46:129][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.04.13-09.51.46:147][176]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.13-09.51.53:773][450]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.51.55:080][502]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.51.58:605][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.51.59:835][658]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.52.11:629][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.52.11:654][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.52.11:654][ 20]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:52:11 PM)
+[2020.04.13-09.52.11:654][ 20]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.52.11:657][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002982s)
+[2020.04.13-09.52.11:659][ 20]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.52.11:659][ 20]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2020.04.13-09.52.11:659][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004508s)
+[2020.04.13-09.52.11:699][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.52.11:703][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.52.11:703][ 20]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.52.11:703][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.52.11:711][ 20]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.52.11:733][ 20]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.52.11:735][ 20]LogInit: FAudioDevice initialized.
+[2020.04.13-09.52.11:743][ 20]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.52.11:744][ 20]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.52.11
+[2020.04.13-09.52.11:745][ 20]LogWorld: Bringing up level for play took: 0.000936
+[2020.04.13-09.52.11:745][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.13-09.52.11:747][ 20]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.077
+[2020.04.13-09.52.22:104][512]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.52.22:104][512]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.52.22:105][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.52.22:106][512]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.52.22:106][512]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.52.22:107][512]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.52.22:108][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.52.22:157][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.52.22:162][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.52.22:196][512]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.52.22:201][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.52.22:206][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.13-09.52.22:225][513]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.13-09.52.23:754][580]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.52.25:406][648]Cmd: DELETE
+[2020.04.13-09.52.25:406][648]Cmd: ACTOR DELETE
+[2020.04.13-09.52.25:411][648]LogEditorActor: Deleted Actor: PlayerStart
+[2020.04.13-09.52.25:462][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.13-09.52.25:463][648]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.04.13-09.52.28:372][771]Cmd: TRANSACTION UNDO
+[2020.04.13-09.52.28:372][771]LogEditorTransaction: Undo Delete Actors
+[2020.04.13-09.52.32:574][939]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.52.33:943][995]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.13-09.52.35:011][ 37]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.52.35:712][ 66]Cmd: TRANSACTION UNDO
+[2020.04.13-09.52.35:712][ 66]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.52.40:624][259]Cmd: TRANSACTION UNDO
+[2020.04.13-09.52.40:624][259]LogEditorTransaction: Undo Move Actors
+[2020.04.13-09.52.44:361][401]Cmd: TRANSACTION UNDO
+[2020.04.13-09.52.44:361][401]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.13-09.52.45:215][428]Cmd: TRANSACTION UNDO
+[2020.04.13-09.52.45:215][428]LogEditorTransaction: Undo Move Actors
+[2020.04.13-09.52.47:890][544]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.52.48:046][548]Cmd: TRANSACTION UNDO
+[2020.04.13-09.52.48:046][548]LogEditorTransaction: Undo Move Actors
+[2020.04.13-09.52.57:394][956]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.53.01:067][103]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.53.01:087][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.53.01:087][103]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:53:01 PM)
+[2020.04.13-09.53.01:087][103]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.01:090][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002953s)
+[2020.04.13-09.53.01:092][103]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.53.01:092][103]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2020.04.13-09.53.01:092][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004455s)
+[2020.04.13-09.53.01:131][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.53.01:134][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.53.01:134][103]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.53.01:134][103]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.53.01:141][103]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.53.01:165][103]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.01:167][103]LogInit: FAudioDevice initialized.
+[2020.04.13-09.53.01:175][103]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.53.01:176][103]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.53.01
+[2020.04.13-09.53.01:177][103]LogWorld: Bringing up level for play took: 0.000844
+[2020.04.13-09.53.01:177][103]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.13-09.53.01:180][103]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.644
+[2020.04.13-09.53.08:330][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.08:330][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.08:331][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.08:331][441]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.08:331][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.08:332][441]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.53.08:333][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.08:383][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.53.08:388][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.08:422][441]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.08:425][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.08:429][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.04.13-09.53.08:449][442]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.13-09.53.11:446][573]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.53.12:641][608]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.13-09.53.13:737][653]Cmd: DELETE
+[2020.04.13-09.53.13:738][653]Cmd: ACTOR DELETE
+[2020.04.13-09.53.13:743][653]LogEditorActor: Deleted Actor: PlayerStart
+[2020.04.13-09.53.13:797][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.13-09.53.13:798][653]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.04.13-09.53.15:899][742]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.53.15:925][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.53.15:925][742]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:53:15 PM)
+[2020.04.13-09.53.15:925][742]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.15:928][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002755s)
+[2020.04.13-09.53.15:929][742]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.53.15:929][742]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2020.04.13-09.53.15:929][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004161s)
+[2020.04.13-09.53.15:964][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.13-09.53.15:964][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.53.15:964][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.53.15:964][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.53.15:964][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.53.15:964][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.53.15:964][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.53.15:965][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.53.15:965][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.53.15:965][742]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.53.15:965][742]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.53.15:971][742]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.53.15:994][742]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.15:996][742]LogInit: FAudioDevice initialized.
+[2020.04.13-09.53.16:004][742]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.53.16:005][742]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.53.16
+[2020.04.13-09.53.16:006][742]LogWorld: Bringing up level for play took: 0.000783
+[2020.04.13-09.53.16:006][742]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.13-09.53.16:008][742]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.185
+[2020.04.13-09.53.21:744][ 12]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.21:744][ 12]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.21:745][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.21:746][ 12]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.21:746][ 12]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.21:746][ 12]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.53.21:747][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.21:797][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.53.21:802][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.21:836][ 12]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.21:840][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.21:844][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.13-09.53.21:863][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.13-09.53.23:603][ 90]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.13-09.53.24:371][119]LogEditorViewport: Clicking on Actor (LMB): Chicken_C (Chicken)
+[2020.04.13-09.53.25:971][169]Cmd: DELETE
+[2020.04.13-09.53.25:971][169]Cmd: ACTOR DELETE
+[2020.04.13-09.53.25:976][169]LogEditorActor: Deleted Actor: Chicken_C
+[2020.04.13-09.53.26:061][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.04.13-09.53.26:062][169]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2020.04.13-09.53.28:031][248]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.53.28:054][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.53.28:054][248]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:53:28 PM)
+[2020.04.13-09.53.28:054][248]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.28:058][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003612s)
+[2020.04.13-09.53.28:059][248]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.53.28:059][248]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2020.04.13-09.53.28:059][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004981s)
+[2020.04.13-09.53.28:095][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.04.13-09.53.28:095][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.53.28:095][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.53.28:095][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.53.28:095][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.53.28:095][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.53.28:095][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.53.28:095][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.53.28:096][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.53.28:096][248]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.53.28:096][248]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.53.28:102][248]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.53.28:123][248]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.28:125][248]LogInit: FAudioDevice initialized.
+[2020.04.13-09.53.28:135][248]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.53.28:137][248]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.53.28
+[2020.04.13-09.53.28:137][248]LogWorld: Bringing up level for play took: 0.000886
+[2020.04.13-09.53.28:137][248]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.13-09.53.28:140][248]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.317
+[2020.04.13-09.53.33:514][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.33:514][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.33:515][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.33:515][501]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.33:516][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.33:516][501]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.53.33:517][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.33:566][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.53.33:571][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.33:603][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.33:607][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.33:612][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.04.13-09.53.33:631][502]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.13-09.53.35:498][584]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.13-09.53.44:783][989]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.13-09.53.47:143][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-09.53.47:168][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.13-09.53.47:168][ 83]PIE: New page: PIE session: Untitled_1 (Apr 12, 2020, 7:53:47 PM)
+[2020.04.13-09.53.47:168][ 83]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.47:171][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002536s)
+[2020.04.13-09.53.47:172][ 83]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.13-09.53.47:172][ 83]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2020.04.13-09.53.47:172][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004036s)
+[2020.04.13-09.53.47:211][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.13-09.53.47:213][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-09.53.47:213][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-09.53.47:213][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-09.53.47:213][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-09.53.47:213][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-09.53.47:213][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-09.53.47:213][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-09.53.47:213][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-09.53.47:214][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-09.53.47:214][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: Name: Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: Channel Order:
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-09.53.47:221][ 83]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-09.53.47:243][ 83]LogAudioMixer: Display: Using Audio Device Speaker/HP (2- Realtek High Definition Audio)
+[2020.04.13-09.53.47:245][ 83]LogInit: FAudioDevice initialized.
+[2020.04.13-09.53.47:257][ 83]LogLoad: Game class is 'Gamemodebase_C'
+[2020.04.13-09.53.47:258][ 83]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.13-02.53.47
+[2020.04.13-09.53.47:258][ 83]LogWorld: Bringing up level for play took: 0.000608
+[2020.04.13-09.53.47:258][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.13-09.53.47:261][ 83]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.562
+[2020.04.13-09.53.55:470][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.55:471][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.55:472][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.55:472][470]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.13-09.53.55:472][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.55:473][470]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-09.53.55:473][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.55:523][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.13-09.53.55:528][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-09.53.55:562][470]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.13-09.53.55:566][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-09.53.55:571][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.13-09.53.55:601][471]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.13-09.53.57:357][523]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Chicken.Chicken
+[2020.04.13-09.54.21:869][148]LogEditorTransaction: Undo Set Rotation
+[2020.04.13-09.54.21:923][148]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.13-09.54.22:004][148]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.081 s
+[2020.04.13-09.54.22:004][148]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: 
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: 
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: Stack: 
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc69a6b918 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc68f30d40 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc68ee1e6a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc5ce88a16 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc5ce899b5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc5ce43d01 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc8818889a UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc881f8d51 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc881b83d9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc8813e957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc88220050 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc8801f418 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc8801fcfa UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc87fc8d05 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc79b25584 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc798e7aba UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc798c15d9 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc79c18513 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc79bfc278 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc79badb64 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc79c0450d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc79c04cae UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc798a2d23 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc798cfbe6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc798ed14d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc68ee22fd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc68f07406 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc68ef2d9c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc68f8eae3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:005][148]LogOutputDevice: Error: [Callstack] 0x00007ffc68f2ecbf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc798c2508 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc87fc9ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc880003de UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc69704f7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc696f2b11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc87f91041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc8800224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffc87ff7b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcad434918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcad42242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcad437195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcad41ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcc7e95c0d USER32.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcc7e95602 USER32.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcad438699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ff639c16db0 UE4Editor.exe!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ff639c2c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ff639c2c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ff639c3ceae UE4Editor.exe!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ff639c3fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcc79a7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: [Callstack] 0x00007ffcc824ced1 ntdll.dll!UnknownFunction []
+[2020.04.13-09.54.22:006][148]LogOutputDevice: Error: 
+[2020.04.13-09.54.22:012][148]LogStats:                SubmitErrorReport -  0.000 s
